@@ -1,12 +1,8 @@
 # Supermarket-Sales
 
-# A. Perkenalan
-
 =================================================
 
 Nama  :Nurdin Atid H
-
-Batch : BSD-002
 
 Url Tableu : https://public.tableau.com/app/profile/nurdin.atid.h/viz/salesmarketing2/chart2?publish=yes
 
